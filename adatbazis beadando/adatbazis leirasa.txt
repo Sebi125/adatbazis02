@@ -1,0 +1,1 @@
+Az adatbázis egy tenisz klub adatait tartalmazza. A fő táblában az ügyfelek adatait tároljuk. Az ügyfelek foglalásokat végeznek. Ezeket a foglalásokat egy másik táblában tároljuk, ehhez egy pályakulccsal pályákat kapcsolunk. ezen kívül még 2 táblánk van, az egyikben az ügyfelek bérletei, a másikban a ütőfoglalások adatai.
