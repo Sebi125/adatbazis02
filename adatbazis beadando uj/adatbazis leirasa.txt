@@ -1,0 +1,1 @@
+Az adatbázisunk egészségügyi rendszert tárol, amelyben páciensek, orvosok és orvosi tevékenységek nyilvántartása van. A lekérdezések segítségével információkat nyerhetünk ki például az egyes orvosok által kezelt betegek számáról, az átlagos betegszámról vagy éppen a leggyakrabban használt gyógyszerről.
